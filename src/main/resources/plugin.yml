@@ -1,0 +1,5 @@
+name: YouTubeCore
+version: '${project.version}'
+main: me.xemu.youtubecore.YouTubeCore
+authors: [ Xemu ]
+description: This is a tutorial plugin for YouTube. Pretty cool right!
